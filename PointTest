@@ -8,8 +8,7 @@ public class pointTest {
 
 	@Test
 	public void pointCanBecreatewithnoparamethers() {
-		Point newPoint = new Point();
-		assertNotNull(newPoint);
+	
 	}
 
 	@Test
